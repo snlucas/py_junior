@@ -1,2 +1,2 @@
-# py_junior
-Jr. (only) Python Jobs.
+# PyJunior API
+Jr. (only) Python Jobs API.
